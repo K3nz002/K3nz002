@@ -32,7 +32,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 <a href="https://github.com/K3nz002">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nz002&layout=compact&langs_count=7&theme=dracula"/>
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
 
 </div>
 
