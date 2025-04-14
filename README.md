@@ -23,7 +23,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 ## Projetos
 
 - <a href=https://github.com/K3nz002/ProjectPython><text decoration="none">Projeto de Python com o que eu vou aprendendo</text></a>
-- <a href=https://github.com/K3nz002/GeradorSenhas><text decoration="none">Projeto de Senhas com verificador de segurança e gerador de senhas</text></a>
+- <a href=https://github.com/K3nz002/ProjetoSenhas><text decoration="none">Projeto de Senhas com verificador de segurança e gerador de senhas</text></a>
 
 
 ## Estatísticas do GitHub
