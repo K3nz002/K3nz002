@@ -6,10 +6,17 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 
 **Interesses Profissionais**
 
-- 🤖 Inteligência Artificial
-- 📝 Machine Learning
-- 🛡️​ CyberSegurança
-- 📚 Ciência de Dados
+- 🤖 Inteligência Artificial;
+- 📝 Machine Learning;
+- 🛡️​ CyberSegurança;
+- 📚 Ciência de Dados.
+
+**Conhecimentos**
+  
+- Inglês Intermediário;
+- Python;
+- Conhecimento em metodologias Ágile e SCRUM;
+- Modelagem de banco de dados.
 
 **Tecnologias e Linguagens**
 <div>
