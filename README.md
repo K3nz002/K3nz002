@@ -45,7 +45,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 <img src="imagens/K3nz002.jpg" width="250" height="250"/>
 
 <div>
-<a href="https://www.linkedin.com/in/guilherme-fujimura-692106351/" target="_blank"><img src="imagens/LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/guilherme-f-692106351/" target="_blank"><img src="imagens/LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn"/></a>
 <a href="mailto:gkwfuji@gmail.com" target="_blank"><img src="imagens/Gmail_icon.svg.png" width="40" height="32" alt="Gmail"/></a>
 <a href="https://www.instagram.com/_.g.kenzo/" target="_blank"><img src="imagens/Instagram_icon.png" width="40" height="40" alt="GitHub"/></a>
 </div>
