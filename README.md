@@ -27,7 +27,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 
 </div>
 
-## <a href=https://github.com/K3nz002/Projetos_python><text decoration="none">Projeto de Python</text></a>
+## <a href=https://github.com/K3nz002/Projetos-Pessoais><text decoration="none">Projeto Pessoais</text></a>
 
 ## Estatísticas do GitHub
 
