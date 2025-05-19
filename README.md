@@ -1,22 +1,24 @@
-## Eu sou o Guilherme
+## Estudante de Ciência da Computação | Interessado em IA, ML e CyberSegurança
 
 **Sobre mim**
 
-Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/estudar fora de Brasília-DF e desde a escola tenho contato com programação por meio de olimpíadas e de cursos que eram ofertados, com isso comecei a gostar pela área e continuo estudando.
+Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/estudar fora de Brasília-DF afim de ter maior visibilidade no mercado e desde a escola tenho contato com programação por meio de olimpíadas e de cursos que eram ofertados como a OBR e a OBI, com isso comecei a gostar pela área e continuo estudando.
 
 **Interesses Profissionais**
 
 - 🤖 Inteligência Artificial;
 - 📝 Machine Learning;
 - 🛡️​ CyberSegurança;
-- 📚 Ciência de Dados.
+- 📊 Ciência de Dados.
 
 **Conhecimentos**
   
 - Inglês Intermediário;
-- Python;
-- Conhecimento em metodologias Ágile e SCRUM;
+- Python (Uso de API's, Plotly, Pandas);
+- Conhecimento em metodologias Ágile (SCRUM);
 - Modelagem de banco de dados.
+- MySQL
+- Git
 
 **Tecnologias e Linguagens**
 <div>
