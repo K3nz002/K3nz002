@@ -1,37 +1,40 @@
-## Estudante de Ciência da Computação | Interessado em IA, ML e CyberSegurança
+## Computer Science Student | Interested in AI, ML and Cybersecurity
 
-**Sobre mim**
+**About me**
+
+I'm studying Computer Science at the UniCEUB, i want work/study out the Brazil because i want to more visibility to my work and since school i have contact with programming through olympiads and courses that were offered as OBR and OBI, with this i started to like the area and continue studying.
 
 Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/estudar fora de Brasília-DF afim de ter maior visibilidade no mercado e desde a escola tenho contato com programação por meio de olimpíadas e de cursos que eram ofertados como a OBR e a OBI, com isso comecei a gostar pela área e continuo estudando.
 
-**Interesses Profissionais**
+**Interests**
 
-- 🤖 Inteligência Artificial;
+- 🤖 Artificial Intelligence;
 - 📝 Machine Learning;
 - 🛡️​ CyberSegurança;
-- 📊 Ciência de Dados.
+- 📊 Data Science.
 
-**Conhecimentos**
+**Acquirements**
   
-- Inglês Intermediário;
+- English intermediary;
 - Python (Uso de API's, Plotly, Pandas);
-- Conhecimento em metodologias Ágile (SCRUM);
-- Modelagem de banco de dados.
-- MySQL
-- Git
+- Methodologies Ágile (SCRUM);
+- Database Modeling;
+- MySQL;
+- Git.
 
-**Tecnologias e Linguagens**
+**Tecnologies and Languages**
 <div>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="imagens/Github_icon.svg.png" width="40" height="40"/>
 <img loading="lazy" src="imagens/Python-logo-notext.svg.png" width="40" height="40"/>
+<img loading="lazy" src="imagens/mysql-logo.svg" width="40" height="40"/>
 
 </div>
 
-## <a href=https://github.com/K3nz002/Projetos-Pessoais><text decoration="none">Projeto Pessoais</text></a>
+## <a href=https://github.com/K3nz002/Projetos-Pessoais><text decoration="none">Personal Projects</text></a>
 
-## Estatísticas do GitHub
+## Statistics of GitHub
 
 <div align="center">
 <a href="https://github.com/K3nz002">
@@ -41,7 +44,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 
 </div>
 
-## Contato
+## Contact
 
 <div align="center">
 <img src="imagens/K3nz002.jpg" width="250" height="250"/>
