@@ -16,7 +16,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 **Acquirements**
   
 - English intermediary;
-- Python (Uso de API's, Plotly, Pandas);
+- Python (APIs, Plotly, Pandas);
 - Methodologies Ágile (SCRUM);
 - Database Modeling;
 - MySQL;
