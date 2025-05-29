@@ -2,7 +2,7 @@
 
 **About me**
 
-I'm studying Computer Science at the UniCEUB, i want work/study out the Brazil because i want to more visibility to my work and since school i have contact with programming through olympiads and courses that were offered as OBR and OBI, with this i started to like the area and continue studying.
+I'm studying Computer Science at the UniCEUB, I want work/study out the Brazil because I want to more visibility to my work and since school I have contact with programming through olympiads and courses that were offered as OBR and OBI, with this I started to like the area and continue studying.
 
 Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/estudar fora de Brasília-DF afim de ter maior visibilidade no mercado e desde a escola tenho contato com programação por meio de olimpíadas e de cursos que eram ofertados como a OBR e a OBI, com isso comecei a gostar pela área e continuo estudando.
 
