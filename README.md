@@ -1,3 +1,5 @@
+<head>
+
 ## Computer Science Student | Interested in AI, ML and Cybersecurity
 
 **About me**
@@ -5,6 +7,8 @@
 I'm studying Computer Science at the UniCEUB, I want work/study out the Brazil because I want to more visibility to my work and since school I have contact with programming through olympiads and courses that were offered as OBR and OBI, with this I started to like the area and continue studying.
 
 Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/estudar fora de Brasília-DF afim de ter maior visibilidade no mercado e desde a escola tenho contato com programação por meio de olimpíadas e de cursos que eram ofertados como a OBR e a OBI, com isso comecei a gostar pela área e continuo estudando.
+
+</head>
 
 **Interests**
 
@@ -15,11 +19,12 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 
 **Acquirements**
   
-- English intermediary;
+- English Basic;
 - Python (APIs, Plotly, Pandas);
 - Methodologies Ágile (SCRUM);
 - Database Modeling;
 - MySQL;
+- JavaScript;
 - Git.
 
 **Tecnologies and Languages**
@@ -29,7 +34,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 <img loading="lazy" src="imagens/Github_icon.svg.png" width="40" height="40"/>
 <img loading="lazy" src="imagens/Python-logo-notext.svg.png" width="40" height="40"/>
 <img loading="lazy" src="imagens/mysql-logo.svg" width="40" height="40"/>
-
+<img loading="lazy" src="imagens/images.png" width="40" height="40"/>
 </div>
 
 ## <a href=https://github.com/K3nz002/Projetos-Pessoais><text decoration="none">Personal Projects</text></a>
@@ -40,7 +45,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 <a href="https://github.com/K3nz002">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nz002&layout=compact&theme=dracula&langs_count=7"/>
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=&theme=dracula"/>
 
 </div>
 
@@ -50,7 +55,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 <img src="imagens/K3nz002.jpg" width="250" height="250"/>
 
 <div>
-<a href="https://www.linkedin.com/in/guilherme-f-692106351/" target="_blank"><img src="imagens/LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/guilherme-kenzo-watanabe-fujimura-692106351/" target="_blank"><img src="imagens/LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn"/></a>
 <a href="mailto:gkwfuji@gmail.com" target="_blank"><img src="imagens/Gmail_icon.svg.png" width="40" height="32" alt="Gmail"/></a>
 <a href="https://www.instagram.com/_.g.kenzo/" target="_blank"><img src="imagens/Instagram_icon.png" width="40" height="40" alt="GitHub"/></a>
 </div>
