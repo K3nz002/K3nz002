@@ -4,9 +4,9 @@
 
 **About me**
 
-I'm studying Computer Science at the UniCEUB, I want work/study out the Brazil because I want to more visibility to my work and since school I have contact with programming through olympiads and courses that were offered as OBR and OBI, with this I started to like the area and continue studying.
+I'm studying Computer Science at the UnDF, I want work/study out the Brazil because I want to more visibility to my work and since school I have contact with programming through olympiads and courses that were offered as OBR and OBI, with this I started to like the area and continue studying.
 
-Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/estudar fora de Brasília-DF afim de ter maior visibilidade no mercado e desde a escola tenho contato com programação por meio de olimpíadas e de cursos que eram ofertados como a OBR e a OBI, com isso comecei a gostar pela área e continuo estudando.
+Sou estudante da UnDF do curso de Ciência da Computação, quero trabalhar/estudar fora de Brasília-DF afim de ter maior visibilidade no mercado e desde a escola tenho contato com programação por meio de olimpíadas e de cursos que eram ofertados como a OBR e a OBI, com isso comecei a gostar pela área e continuo estudando.
 
 </head>
 
@@ -45,7 +45,7 @@ Sou estudante do UniCEUB do curso de Ciência da Computação, quero trabalhar/e
 <a href="https://github.com/K3nz002">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nz002&layout=compact&theme=dracula&langs_count=7"/>
 
-<img loading="lazy" height="180em" src="[https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=&theme=dracula](https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=&theme=dracula)"/>
+<img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=&theme=dracula)"/>
 
 </div>
 
