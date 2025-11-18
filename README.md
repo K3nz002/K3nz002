@@ -45,7 +45,7 @@ Sou estudante da UnDF do curso de Ciência da Computação, quero trabalhar/estu
 <a href="https://github.com/K3nz002">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nz002&layout=compact&theme=dracula&langs_count=7"/>
 
-<img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=&theme=dracula)"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=&theme=dracula"/>
 
 </div>
 
