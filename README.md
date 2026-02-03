@@ -46,12 +46,10 @@ Sou estudante da UnDF do curso de Ciência da Computação, quero trabalhar/estu
 
 ## Statistics of GitHub
 
-<div align="center">
-<a href="https://github.com/K3nz002">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?/top-langs/username=K3nz002&layout=compact&theme=dracula&langs_count=7"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3nz002)](https://github.com/K3nz002/github-readme-stats)
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=K3nz002&layout=compact&show_icons=true&include_all_commits=true&theme=dracula"/>
-</div>
+![K3nz002's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&theme=dracula)
+
 
 ## Contact
 
