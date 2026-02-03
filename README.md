@@ -27,16 +27,19 @@ Sou estudante da UnDF do curso de Ciência da Computação, quero trabalhar/estu
 - Docker;
 - Linux;
 - JavaScript;
+- Excel;
 - Git.
 
 ***Tecnologies and Languages***
 <div>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img loading="lazy" src="imagens/Github_icon.svg.png" width="40" height="40"/>
-<img loading="lazy" src="imagens/Python-logo-notext.svg.png" width="40" height="40"/>
-<img loading="lazy" src="imagens/mysql-logo.svg" width="40" height="40"/>
-<img loading="lazy" src="imagens/images.png" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
 
 ## <a href=https://github.com/K3nz002/Projetos-Pessoais><text decoration="none">Personal Projects</text></a>
@@ -45,10 +48,9 @@ Sou estudante da UnDF do curso de Ciência da Computação, quero trabalhar/estu
 
 <div align="center">
 <a href="https://github.com/K3nz002">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nz002&layout=compact&theme=dracula&langs_count=7"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?/top-langs/username=K3nz002&layout=compact&theme=dracula&langs_count=7"/>
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&include_all_commits=true&count_private=&theme=dracula"/>
-
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=K3nz002&layout=compact&show_icons=true&include_all_commits=true&theme=dracula"/>
 </div>
 
 ## Contact
