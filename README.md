@@ -1,8 +1,8 @@
 <head>
 
-## Computer Science Student | Interested in AI, ML and Cybersecurity
+# Computer Science Student | Interested in AI, ML and Cybersecurity
 
-**About me**
+***About me***
 
 I'm studying Computer Science at the UnDF, I want work/study out the Brazil because I want to more visibility to my work and since school I have contact with programming through olympiads and courses that were offered as OBR and OBI, with this I started to like the area and continue studying.
 
@@ -10,14 +10,14 @@ Sou estudante da UnDF do curso de Ciência da Computação, quero trabalhar/estu
 
 </head>
 
-**Interests**
+***Interests***
 
 - 🤖 Artificial Intelligence;
 - 📝 Machine Learning;
 - 🛡️​ CyberSegurança;
 - 📊 Data Science.
 
-**Acquirements**
+***Acquirements***
   
 - English Basic;
 - Python (APIs, Plotly, Pandas);
@@ -29,7 +29,7 @@ Sou estudante da UnDF do curso de Ciência da Computação, quero trabalhar/estu
 - JavaScript;
 - Git.
 
-**Tecnologies and Languages**
+***Tecnologies and Languages***
 <div>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
