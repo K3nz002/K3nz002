@@ -46,9 +46,9 @@ Sou estudante da UnDF do curso de Ciência da Computação, quero trabalhar/estu
 
 ## Statistics of GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3nz002)](https://github.com/K3nz002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=K3nZ002)](https://github.com/K3nZ002/github-readme-stats)
 
-![K3nz002's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3nz002&show_icons=true&theme=dracula)
+![K3nZ002's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3nZ002&show_icons=true&theme=dracula)
 
 
 ## Contact
